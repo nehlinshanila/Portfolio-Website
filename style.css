@@ -1,0 +1,27 @@
+body{
+    font-size: 16px;
+    line-height: 1.5;
+    overflow-x: hidden;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+.header{
+    background-color: grey;
+    padding: 20px 15px;
+}
+.imgone{
+    margin-top: -20px;
+    /* margin-bottom: ; */
+}
+.imgtwo{
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    height: 40%;
+    width: 24%;
+    border-radius: 100%;
+}
